@@ -1,0 +1,26 @@
+.footer {
+
+    background-size: 100%;
+    width: 100%;
+    min-height: 50px;
+    text-align: center;
+    font-family: 'Chicle', cursive;
+    font-size: 30px;
+    color: #fff;
+    background-color: rgb(255, 165, 9);
+    text-shadow: 0 0 5px #000;
+    position: fixed;
+    bottom: 0px;
+    vertical-align: center;
+    margin-top: 20px;
+    bottom: 0px;
+}
+
+.footer h4{
+    font-size: 30px;
+}
+
+.footer p{
+    font-size: 30px;
+    font-family: 'Libre Barcode 128 Text', cursive;
+}
