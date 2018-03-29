@@ -14,7 +14,8 @@ This app is a memory game with React. This project required me to break up my ap
 
 5. Once the user's score is reset after an incorrect guess, the game should restart.
 
-see the magic: https://jh-cat-clicky-game.herokuapp.com/
+
+See the magic: https://jh-cat-clicky-game.herokuapp.com/
 
 ![Image](public/img/cat-clicky-game.png)
 
